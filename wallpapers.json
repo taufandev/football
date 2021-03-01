@@ -26,22 +26,352 @@
 
   "Categories": [
     {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "id":1,
+      "name_category": "Alexis Sanchez",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Alexis%20Sanchez/1.png"
 
-    }
+    },
+    {
+      "id":2,
+      "name_category": "Antonie Grizemann",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Antonie%20Grizemann/1.jpg"
 
-    
+    },
+    {
+      "id":3,
+      "name_category": "Gerard Pique",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Gerard%20Pique/1.png"
+
+    },
+    {
+      "id":4,
+      "name_category": "James Rodriguez",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/James%20Rodriguez/1.png"
+
+    },
+    {
+      "id":5,
+      "name_category": "Joao Felix",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Joao%20Felix/1.jpg"
+
+    },
+    {
+      "id":6,
+      "name_category": "Kevin De Bruyne",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Kevin%20De%20Bruyne/1.jpg"
+
+    },
+    {
+      "id":7,
+      "name_category": "Luis Suarez",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Luis%20Suarez/1.png"
+
+    },
+    {
+      "id":8,
+      "name_category": "M Salah",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/M%20Salah/1.png"
+
+    },
+    {
+      "id":9,
+      "name_category": "Messi",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Messi/1.png"
+
+    },
+    {
+      "id":10,
+      "name_category": "Mikhitaryan",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Mikhitaryan/1.png"
+
+    },
+    {
+      "id":11,
+      "name_category": "Paulo Dybala",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Paulo%20Dybala/1.png"
+
+    },
+    {
+      "id":12,
+      "name_category": "Philippe Coutinho",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Philippe%20Coutinho/1.jpg"
+
+    },
+    {
+      "id":13,
+      "name_category": "Philippe Coutinho",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Philippe%20Coutinho/2.jpg"
+
+    },
+    {
+      "id":14,
+      "name_category": "Ronaldo",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Ronaldo/1.jpg"
+
+    },
+    {
+      "id":15,
+      "name_category": "Sadio Mane",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Sadio%20Mane/1.jpg"
+
+    },
+    {
+      "id":16,
+      "name_category": "Sergio Ramos",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Sergio%20Ramos/1.png"
+
+    },
+    {
+      "id":17,
+      "name_category": "Toni Kroos",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Toni%20Kroos/1.jpg"
+
+    },
+    {
+      "id":18,
+      "name_category": "Virgil Van Djik",
+      "image": "http://goodtrush.adityaekofadilah.com/Football/Virgil%20Van%20Djik/1.jpg"
+
+    },
+
   ],
 
   "Data":
   [
     {
       "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      "name_category": "Alexis Sanchez",
+      "title":"Alexis Sanchez 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Alexis%20Sanchez/1.png"
+    },
+    {
+      "id":2,
+      "name_category": "Antonie Grizemann",
+      "title":"Antonie Grizemann 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Antonie%20Grizemann/1.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Antonie Grizemann",
+      "title":"Antonie Grizemann 2",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Antonie%20Grizemann/2.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Gerard Pique",
+      "title":"Gerard Pique 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Gerard%20Pique/1.png"
+    },
+    {
+      "id":5,
+      "name_category": "Gerard Pique",
+      "title":"Gerard Pique 2",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Gerard%20Pique/2.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "James Rodriguez",
+      "title":"James Rodriguez 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/James%20Rodriguez/1.png"
+    },
+    {
+      "id":7,
+      "name_category": "Joao Felix",
+      "title":"Joao Felix 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Joao%20Felix/1.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Kevin De Bruyne",
+      "title":"Kevin De Bruyne 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Kevin%20De%20Bruyne/1.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Luis Suarez",
+      "title":"Luis Suarez 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Luis%20Suarez/1.png"
+    },
+    {
+      "id":10,
+      "name_category": "M Salah",
+      "title":"M Salah 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/M%20Salah/1.png"
+    },
+    {
+      "id":11,
+      "name_category": "M Salah",
+      "title":"M Salah 2",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/M%20Salah/2.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "M Salah",
+      "title":"M Salah 3",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/M%20Salah/3.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "M Salah",
+      "title":"M Salah 4",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/M%20Salah/4.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Messi",
+      "title":"Messi 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Messi/1.png"
+    },
+    {
+      "id":15,
+      "name_category": "Messi",
+      "title":"Messi 2",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Messi/2.png"
+    },
+    {
+      "id":16,
+      "name_category": "Messi",
+      "title":"Messi 3",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Messi/3.png"
+    },
+    {
+      "id":17,
+      "name_category": "Messi",
+      "title":"Messi 4",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Messi/4.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Messi",
+      "title":"Messi 5",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Messi/5.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Messi",
+      "title":"Messi 6",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Messi/6.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Messi",
+      "title":"Messi 7",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Messi/7.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Mikhitaryan",
+      "title":"Mikhitaryan 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Mikhitaryan/1.png"
+    },
+    {
+      "id":22,
+      "name_category": "Paulo Dybala",
+      "title":"Paulo Dybala 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Paulo%20Dybala/1.png"
+    },
+    {
+      "id":23,
+      "name_category": "Philippe Coutinho",
+      "title":"Philippe Coutinho 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Philippe%20Coutinho/1.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Philippe Coutinho",
+      "title":"Philippe Coutinho 2",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Philippe%20Coutinho/2.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Ronaldo",
+      "title":"Ronaldo 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Ronaldo/1.jpg"
+    },
+    {
+      "id":26,
+      "name_category": "Ronaldo",
+      "title":"Ronaldo 10",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Ronaldo/10.png"
+    },
+    {
+      "id":27,
+      "name_category": "Ronaldo",
+      "title":"Ronaldo 2",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Ronaldo/2.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Ronaldo",
+      "title":"Ronaldo 3",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Ronaldo/3.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Ronaldo",
+      "title":"Ronaldo 4",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Ronaldo/4.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Ronaldo",
+      "title":"Ronaldo 5",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Ronaldo/5.png"
+    },
+    {
+      "id":31,
+      "name_category": "Ronaldo",
+      "title":"Ronaldo 6",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Ronaldo/6.png"
+    },
+    {
+      "id":32,
+      "name_category": "Ronaldo",
+      "title":"Ronaldo 7",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Ronaldo/7.png"
+    },
+    {
+      "id":33,
+      "name_category": "Ronaldo",
+      "title":"Ronaldo 8",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Ronaldo/8.png"
+    },
+    {
+      "id":34,
+      "name_category": "Ronaldo",
+      "title":"Ronaldo 9",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Ronaldo/9.png"
+    },
+    {
+      "id":35,
+      "name_category": "Sadio Mane",
+      "title":"Sadio Mane 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Sadio%20Mane/1.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "Sergio Ramos",
+      "title":"Sergio Ramos 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Sergio%20Ramos/1.png"
+    },
+    {
+      "id":37,
+      "name_category": "Sergio Ramos",
+      "title":"Sergio Ramos 2",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Sergio%20Ramos/2.png"
+    },
+    {
+      "id":38,
+      "name_category": "Toni Kroos",
+      "title":"Toni Kroos 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Toni%20Kroos/1.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "Virgil Van Djik",
+      "title":"Virgil Van Djik 1",
+      "image":"http://goodtrush.adityaekofadilah.com/Football/Virgil%20Van%20Djik/1.jpg"
     }
+
   ]
 }
